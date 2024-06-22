@@ -1,11 +1,4 @@
-# sql_projects
-This repository showcases various SQL projects I've completed on different datasets. The projects focus on developing skills in data cleaning and manipulation, data analysis, data visualization, and writing effective SQL queries. 
-
-
-# Title: SQL Analysis of the Brazilian Olist E-commerce
-
-*Abstract:*
-
+# SQL Analysis of the Brazilian Olist E-commerce
 This project utilizes SQL queries to conduct data analysis on the Brazilian Olist E-commerce Dataset. The dataset encompasses order details and customer information for Olist Store between 2016 and 2018.
 
 *Analysis Performed:*
