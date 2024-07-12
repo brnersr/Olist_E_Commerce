@@ -1,4 +1,4 @@
-# SQL & Pyhton Analysis of the Brazilian Olist E-commerce
+# SQL & Pyhton Analysis of the Brazilian Olist E-commerce-(CLTV,RFM,COHORT)
 This project uses SQL queries and Pyhton programming language to perform data analysis on the Brazilian Olist E-commerce Dataset. The dataset contains order details and customer information for Olist Store from 2016 to 2018.  In this project, in addition to data analysis with SQL, RFM, CLTV and COHORT analyses, which are important in e-commerce, were performed.
 
 ### *Analysis Performed:*
